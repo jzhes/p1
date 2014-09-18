@@ -10,24 +10,24 @@
 		<h1>Carolyne Towner<br>Dynamic Web Apps Portfolio</h1>
 		<img src="img/dog.png" alt="Carolyne Towners Dog">
 		<ul class="projects">
-			<li><h3>Project 2 Title</h3>
+			<li><h3>Project 2: PHP Basics</h3>
 				<ul>
-					<li><a href="http://p2.jztech.me/">View</a></li>
-					<li><a href="https://github.com/jzhes/p2">Github</a></li>
+					<li><a href="#">View</a></li>
+					<li><a href="#">Github</a></li>
 				</ul>
 			</li>
 
-			<li><h3>Project 3 Title</h3>
+			<li><h3>Project 3: Laravel Basics</h3>
 				<ul>
-					<li><a href="http://p3.jztech.me/">View</a></li>
-					<li><a href="https://github.com/jzhes/p3">Github</a></li>
+					<li><a href="#">View</a></li>
+					<li><a href="#">Github</a></li>
 				</ul>
 			</li>
 
-			<li><h3>Project 4 Title</h3>
+			<li><h3>Project 4: Final</h3>
 				<ul>
-					<li><a href="http://p4.jztech.me/">View</a></li>
-					<li><a href="https://github.com/jzhes/p4">Github</a></li>
+					<li><a href="#">View</a></li>
+					<li><a href="#">Github</a></li>
 				</ul>
 			</li>
 		</ul>
