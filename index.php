@@ -12,8 +12,8 @@
 		<ul class="projects">
 			<li><h3>Project 2: PHP Basics</h3>
 				<ul>
-					<li><a href="#">View</a></li>
-					<li><a href="#">Github</a></li>
+					<li><a href="http://p2.jztech.me/">View</a></li>
+					<li><a href="https://github.com/jzhes/p2">Github</a></li>
 				</ul>
 			</li>
 
