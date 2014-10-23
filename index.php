@@ -19,8 +19,8 @@
 
 			<li><h3>Project 3: Laravel Basics</h3>
 				<ul>
-					<li><a href="#">View</a></li>
-					<li><a href="#">Github</a></li>
+					<li><a href="http://p3.jztech.me/">View</a></li>
+					<li><a href="https://github.com/jzhes/p3">Github</a></li>
 				</ul>
 			</li>
 
