@@ -26,8 +26,8 @@
 
 			<li><h3>Project 4: Final</h3>
 				<ul>
-					<li><a href="#">View</a></li>
-					<li><a href="#">Github</a></li>
+					<li><a href="http://p4.jztech.me/">View</a></li>
+					<li><a href="https://github.com/jzhes/p4">Github</a></li>
 				</ul>
 			</li>
 		</ul>
